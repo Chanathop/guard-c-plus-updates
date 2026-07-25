@@ -1,7 +1,7 @@
 {
-  "version": "2.1.2",
-  "url": "https://github.com/Chanathop/guard-c-plus-updates/releases/download/v2.1.2/GUARD-C-Plus.exe",
-  "sha256": "069bd2824825b7311daa6cea5d2da91009955c99b4e8b5ffb8b3f5b179946ae5",
-  "notes": "hello",
+  "version": "2.1.3",
+  "url": "https://github.com/Chanathop/guard-c-plus-updates/releases/download/v2.1.3/GUARD-C-Plus.exe",
+  "sha256": "aace6c52e333b701ee67753d8a498c0d4c69fbca1b0ddf8dd60259dabd8c930d",
+  "notes": "Hello Version 2.1.3 To Check Resheade",
   "mandatory": false
 }
