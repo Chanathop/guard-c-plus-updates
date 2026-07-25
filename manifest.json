@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0",
-  "url": "https://github.com/Chanathop/guard-c-plus-updates/releases/download/v2.1.0/GUARD-C-Plus.exe",
-  "sha256": "9b5126893d30e4988ac23f28c6d0146e17c9a11308bb6ff747a6258290d3be48",
-  "notes": "เวอร์ชันแรก",
+  "version": "2.1.1",
+  "url": "https://github.com/Chanathop/guard-c-plus-updates/releases/download/v2.1.1/GUARD-C-Plus.exe",
+  "sha256": "3448a58dffdac936287584ccae25e22b64d1d860d687986d4cce0cf829fc2de1",
+  "notes": "update 2.1.1 ",
   "mandatory": false
 }
