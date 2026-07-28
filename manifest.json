@@ -1,7 +1,7 @@
 {
-  "version": "3.0.0",
-  "url": "https://github.com/Chanathop/guard-c-plus-updates/releases/download/v3.0.0/GUARD-C-Plus.exe",
-  "sha256": "0a05535e737363ede7a0e1ef6603730ea8e6acde6eae7685ca513b5c55ab427a",
-  "notes": "WELCOME TO GUARD C+ 3.0.0",
+  "version": "4.0.0",
+  "url": "https://github.com/Chanathop/guard-c-plus-updates/releases/download/v4.0.0/GUARD-C-Plus.exe",
+  "sha256": "7af9e9ee7665f11b54e60c22c976d1422502f469be9a603c85463d22d17b0bb7",
+  "notes": "dys prise update check",
   "mandatory": false
 }
