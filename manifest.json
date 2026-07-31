@@ -3,5 +3,7 @@
   "url": "https://github.com/Chanathop/guard-c-plus-updates/releases/download/v5.0.4/GUARD-C-Plus.exe",
   "sha256": "d6f52c088b0564ddb6997f230409eebaa5662ee5120e30e35c70a9a30e0ea575",
   "notes": "update",
-  "mandatory": false
+  "mandatory": false,
+  "disabled": true,
+  "disabled_message": "Server is temporarily disabled for maintenance. Please try again later."
 }
