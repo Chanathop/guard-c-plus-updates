@@ -1,9 +1,7 @@
 {
-  "version": "5.0.4",
-  "url": "https://github.com/Chanathop/guard-c-plus-updates/releases/download/v5.0.4/GUARD-C-Plus.exe",
-  "sha256": "d6f52c088b0564ddb6997f230409eebaa5662ee5120e30e35c70a9a30e0ea575",
-  "notes": "update",
-  "mandatory": false,
-  "disabled": true,
-  "disabled_message": "Server is temporarily disabled for maintenance. Please try again later."
+  "version": "5.0.6",
+  "url": "https://github.com/Chanathop/guard-c-plus-updates/releases/download/v5.0.6/GUARD-C-Plus.exe",
+  "sha256": "c3268d25b54e0c18a0149d6e094f87a13b68c245377cac37d931f3d895da3471",
+  "notes": "upd",
+  "mandatory": false
 }
