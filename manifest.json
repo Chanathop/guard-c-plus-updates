@@ -4,6 +4,6 @@
   "sha256": "c3268d25b54e0c18a0149d6e094f87a13b68c245377cac37d931f3d895da3471",
   "notes": "upd",
   "mandatory": false,
-  "disabled": true,
-  "disabled_message": "Server is temporarily disabled for maintenance. Please try again later."
+  "disabled": false,
+  "disabled_message": ""
 }
