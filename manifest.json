@@ -1,9 +1,7 @@
 {
-  "version": "5.0.6",
-  "url": "https://github.com/Chanathop/guard-c-plus-updates/releases/download/v5.0.6/GUARD-C-Plus.exe",
-  "sha256": "c3268d25b54e0c18a0149d6e094f87a13b68c245377cac37d931f3d895da3471",
-  "notes": "upd",
-  "mandatory": false,
-  "disabled": false,
-  "disabled_message": ""
+  "version": "6.0.0",
+  "url": "https://github.com/Chanathop/guard-c-plus-updates/releases/download/v6.0.0/GUARD-C-Plus.exe",
+  "sha256": "0eb9a3ba3f198227aa2812f25f98eae2da1cb8fba984afbdfd4b004f146d8fd3",
+  "notes": "d",
+  "mandatory": false
 }
